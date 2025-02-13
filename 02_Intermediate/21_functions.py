@@ -5,6 +5,10 @@ def happy_birthday(name, age):
 happy_birthday('Himanshu', '26')  # Known as arguments
 happy_birthday('Shreya', '25')
 
+# From a function's perspective:
+# A parameter is the variable listed inside the parentheses in the function definition.
+# An argument is the value that is sent to the function when it is called.
+
 # There are 4 types of arguments
 # 1. Positional 2. DEFAULT 3. Keyword 4. Arbitrary
 
